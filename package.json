@@ -1,0 +1,31 @@
+{
+  "name": "node-api-starter",
+  "version": "1.0.0",
+  "description": "Boilerplate code for a Node.js API Server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaspervalero/node-api-starter.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "nodemon",
+    "mongoose",
+    "morgan",
+    "passport",
+    "bCrypt",
+    "jwt",
+    "api",
+    "server"
+  ],
+  "author": "Jasper Valero <contact@jaspervalero.com> (http://jaspervalero.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaspervalero/node-api-starter/issues"
+  },
+  "homepage": "https://github.com/jaspervalero/node-api-starter#readme"
+}
