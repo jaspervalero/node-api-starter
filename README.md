@@ -16,3 +16,4 @@ You will need Node.js and MongoDB installed in your local environment.
 ## Usage
 1. `npm install` (1st time only)
 2. `npm run dev`
+3. Access via `http://localhost:3090/`
