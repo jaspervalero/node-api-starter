@@ -25,6 +25,6 @@ You will need Node.js and MongoDB installed in your local environment.
 
     **Make sure to replace the secret's value with your own random secret string.**
 
-    See http://randomkeygen.com for to generate a random secret string.
+    Visit http://randomkeygen.com to generate a random secret string.
 4. **Launch server** - `npm run dev`
 5. **Access** via `http://localhost:3090/`
