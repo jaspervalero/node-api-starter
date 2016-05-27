@@ -13,4 +13,4 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 - Initial release
 
-[1.0.1]: https://github.com/jaspervalero/node-api-starter/compare/v1.0.0...v1.0.1
+[1.0.1]: https://github.com/jaspervalero/node-api-starter/compare/1.0.0...1.0.1
