@@ -11,7 +11,7 @@ Boilerplate code for a Node.js API Server.
 * JWT (Tokens)
 
 ## Machine Preparation
-You will need Node.js and MongoDB installed in your local environment.
+You will need Node.js and MongoDB installed and running in your local environment.
 
 ## Usage
 1. **Clone repo** - `git clone https://github.com/jaspervalero/node-api-starter.git`

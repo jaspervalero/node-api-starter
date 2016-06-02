@@ -3,6 +3,9 @@ All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
+### Added
+- Fix for diff URLs in CHANGELOG
+- Minor update to README
 
 ## [1.0.1] - 2016-05-27
 ### Added
